@@ -1,5 +1,5 @@
 ## lem-in
-
+![image](https://miro.medium.com/v2/resize:fit:1400/1*K4QXRhXv9V1yQlngEZYYGA.png)
 ### Objectives
 
 Create a program `lem-in` that will read from a file (describing the ants and the colony) given in the arguments.
