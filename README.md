@@ -198,5 +198,5 @@ This project will help you learn about :
 - Manipulation of structures
 
 ## Contributers
-[sahmedG](https://github.com/sahmedG) (Sameer Goumaa)
-[MSK17A](https://github.com/MSK17A) (Mohammed Alsammak)
+- [sahmedG](https://github.com/sahmedG) (Sameer Goumaa)
+- [MSK17A](https://github.com/MSK17A) (Mohammed Alsammak)
